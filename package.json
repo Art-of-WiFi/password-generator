@@ -2,8 +2,8 @@
   "name": "password-generator",
   "version": "1.0.0",
   "description": "A secure & customisable password generator made with Vue.js",
-  "homepage": "http://calebj0seph.github.io/password-generator",
-  "repository": "github:calebj0seph/password-generator",
+  "homepage": "https://password-generator.artofwifi.net",
+  "repository": "github:art-of-wifi/password-generator",
   "scripts": {
     "build": "rimraf dist && webpack --mode=production --progress --config webpack.prod.js",
     "start": "webpack serve --color --progress --config webpack.dev.js",
