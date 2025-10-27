@@ -2,8 +2,8 @@ const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 
-const REPO_URL = 'https://github.com/calebj0seph/password-generator';
-const BASE_URL = 'https://calebj0seph.github.io/password-generator';
+const REPO_URL = 'https://github.com/art-of-wifi/password-generator';
+const BASE_URL = 'https://password-generator.artofwifi.net';
 
 module.exports = {
   entry: ['focus-visible', './src/index.jsx'],
